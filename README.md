@@ -2,4 +2,4 @@
 
 ## 📁 Additional Google Drive Links
 
-1. [Google Drive Link](<Google Drive Link 1>)
+1. [Pivot Table & Charts](<https://docs.google.com/spreadsheets/d/1AfvViCdui93G4-pqZRpUE_6aDCtF4U-SRlj83pIggHg/edit?usp=drive_link>)
