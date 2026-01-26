@@ -1,0 +1,7 @@
+CustomerID,CustomerName,OrderID,OrderDate,Amount
+1,"John Smith",103,2024-10-07,150
+1,"John Smith",101,2024-10-01,250
+2,"Mary Johnson",102,2024-10-05,300
+3,"Peter Adams",104,2024-10-10,450
+4,"Nancy Miller",NULL,NULL,NULL
+5,"Robert White",NULL,NULL,NULL

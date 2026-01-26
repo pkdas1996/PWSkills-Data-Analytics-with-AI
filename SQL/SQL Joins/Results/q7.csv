@@ -1,0 +1,26 @@
+CustomerID,CustomerName,OrderID,OrderDate,Amount
+5,"Robert White",101,2024-10-01,250
+4,"Nancy Miller",101,2024-10-01,250
+3,"Peter Adams",101,2024-10-01,250
+2,"Mary Johnson",101,2024-10-01,250
+1,"John Smith",101,2024-10-01,250
+5,"Robert White",102,2024-10-05,300
+4,"Nancy Miller",102,2024-10-05,300
+3,"Peter Adams",102,2024-10-05,300
+2,"Mary Johnson",102,2024-10-05,300
+1,"John Smith",102,2024-10-05,300
+5,"Robert White",103,2024-10-07,150
+4,"Nancy Miller",103,2024-10-07,150
+3,"Peter Adams",103,2024-10-07,150
+2,"Mary Johnson",103,2024-10-07,150
+1,"John Smith",103,2024-10-07,150
+5,"Robert White",104,2024-10-10,450
+4,"Nancy Miller",104,2024-10-10,450
+3,"Peter Adams",104,2024-10-10,450
+2,"Mary Johnson",104,2024-10-10,450
+1,"John Smith",104,2024-10-10,450
+5,"Robert White",105,2024-10-12,400
+4,"Nancy Miller",105,2024-10-12,400
+3,"Peter Adams",105,2024-10-12,400
+2,"Mary Johnson",105,2024-10-12,400
+1,"John Smith",105,2024-10-12,400

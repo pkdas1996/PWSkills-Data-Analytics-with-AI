@@ -1,0 +1,6 @@
+OrderID,OrderDate,Amount,CustomerID,CustomerName
+101,2024-10-01,250,1,"John Smith"
+102,2024-10-05,300,2,"Mary Johnson"
+103,2024-10-07,150,1,"John Smith"
+104,2024-10-10,450,3,"Peter Adams"
+105,2024-10-12,400,NULL,NULL

@@ -1,0 +1,7 @@
+CustomerID,CustomerName,OrderID,OrderAmount,PaymentID,PaymentAmount
+1,"John Smith",103,150,P001,250
+1,"John Smith",101,250,P001,250
+2,"Mary Johnson",102,300,P002,300
+3,"Peter Adams",104,450,P003,450
+4,"Nancy Miller",NULL,NULL,P004,200
+5,"Robert White",NULL,NULL,NULL,NULL
