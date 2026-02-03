@@ -1,0 +1,16 @@
+student_id,name,score,previous_score
+107,"Arjun Verma",95,NULL
+114,"Ishita Joshi",93,95
+110,"Priya Desai",92,93
+103,"Kabir Khanna",91,92
+113,"Rohan Gupta",89,91
+101,"Aarav Mehta",88,89
+111,"Siddharth Jain",85,88
+104,"Tanvi Patel",84,85
+108,"Meera Pillai",82,84
+109,"Nikhil Rao",79,82
+102,"Riya Singh",76,79
+112,"Sneha Kulkarni",74,76
+106,"Dev Sharma",73,74
+115,"Yuvraj Rao",71,73
+105,"Ayesha Khan",67,71
