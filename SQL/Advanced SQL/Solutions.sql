@@ -126,12 +126,12 @@ SELECT ProductID, ProductName, Price
 FROM Products;
 
 -- Update view
-UPDATE vw_productinfo
+UPDATE vw_ProductInfo
 SET Price = 1300
 WHERE ProductID = 1;
 
 --  Display view
-SELECT * FROM vw_productinfo;
+SELECT * FROM vw_ProductInfo;
 
 -- Q9. Create a stored procedure that accepts a category name 
 -- and returns all products belonging to that category.
