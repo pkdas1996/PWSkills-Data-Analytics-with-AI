@@ -190,7 +190,7 @@ SELECT * FROM Products;
 DELETE FROM Sales
 WHERE ProductID = 1;
 
--- Delete from Products
+-- Delete parent rows from Products
 DELETE FROM Products
 WHERE ProductID = 1;
 
